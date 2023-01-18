@@ -1,4 +1,4 @@
-# appuntiSimulazioneTecWeb
+# Appunti Simulazione TecWeb a.a. 2022/2023
 
 ## Esame
 
